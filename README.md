@@ -1,6 +1,6 @@
 # Data Engineering Jobs
 
-## NOMINENKHOYU
+## Responsible
 
 | **Name** | **Github link** | **Email** |
 |------|-------------|-------|
