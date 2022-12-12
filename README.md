@@ -32,6 +32,6 @@ The main goal of the project is to develop a web page which will contain some da
 
 > Directory containing the whole project.
 
-- [Dataset](research/assets/dataviz/DataEngineer.csv)
+- [Dataset](research/assets/dataviz/dataset/DataEngineer.csv)
 
 > Dataset used for this project.
