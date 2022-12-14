@@ -4,7 +4,7 @@
 
 | **Name** | **Github link** | **Email** |
 |------|-------------|-------|
-|*Giovanni Profeta*|[giovannipro](https://github.com/LuMug)|giovanni.profeta@supsi.ch|
+|*Giovanni Profeta*|[giovannipro](https://github.com/GiovanniProfeta)|giovanni.profeta@supsi.ch|
 
 ## Students involved
 
