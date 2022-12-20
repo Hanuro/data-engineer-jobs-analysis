@@ -1,0 +1,26 @@
+DataEngineer.csv = Information regarding people's jobs in the Data Engineering various fields
+    - Job Title = Specific job title
+    - Salary Estimate = Range of salary estimate according to Glassdoor
+    - Job Description = Brief description of the job
+    - Rating = From 1 to 5, the rating given to the company
+    - Company Name = Name of the company where the person is working
+    - Location = Location of the company in the format "City, State"
+    - Headquarters = Headquarters location of the company in the format "City, State"
+    - Size = Range of the amount of employees in the company in the format "N to M employees" 
+    - Founded = Year the company was founded in
+    - Type of ownership = Ownership type of the company 
+    - Industry = Specific group of companies or businesses the company belongs to
+    - Sector = Segment of the economy the company belongs to
+    - Revenue = Revenue of the company
+    - Competitors = Rival company/companies
+    - Easy apply = Tells whether the job application is housed entirely within the Glassdoor site or not
+--------------------------------------------------------------------------------------------------------------------------------------
+World_country_and_usa_states_latitude_and_longitude_values.csv = Geographic information regarding all world countries and USA states
+    - country_code = abbreviation code of the country
+    - latitute = mean latitude coordinate of the country
+    - longitude = mean longitude coordinate of the country
+    - country = full name of the country
+    - usa_state_code = abbreviation code of the USA state
+    - usa_state_latitute = mean latitude coordinate of the USA state
+    - usa_state_longitude = mean longitude coordinate of the USA state
+    - usa_state = full name of the USA state

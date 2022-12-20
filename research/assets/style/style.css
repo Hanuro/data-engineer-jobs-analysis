@@ -75,7 +75,7 @@ figure{
 /* ---- data visualizations -----*/
 
 #dataviz_01 {
-	border:  none;
+	border:  2px solid black;
 	max-width: 100%;
 	height: auto;
 }
